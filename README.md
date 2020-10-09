@@ -1,4 +1,4 @@
-# lazzy-biologist
+# lazy-biologist
 
 Este script fue creado con el objetivo de analizar imágenes de cámaras trampa de una forma más rápida (y perezosa) con ayuda de python y [google vision](https://cloud.google.com/vision).
 
