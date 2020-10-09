@@ -25,7 +25,7 @@ total=len([name for name in os.listdir(img_path) if os.path.isfile(os.path.join(
 
 ##Procesamiento de imagenes
 ##Cargar imagenes en memoria para poder revisar en orden secuencial, se establece una variable para ir recorriendo el arreglo
-#images=sorted(os.listdir(img_path))
+images=sorted(os.listdir(img_path))
 img_num=0
 
 ##Se inicia un ciclo para recorrer el total de imagenes
@@ -85,8 +85,7 @@ for i in range(total):
                 s=s+1
     
     ##Se suma el contador para revisar la siguiente imagen
-    #img_num=img_num+1
-    os.remove(img_path+pic_name)           
+    img_num=img_num+1          
             
     
     
