@@ -44,7 +44,7 @@ Una vez dentro, es necesario crear un proyecto. Se necesita agregar un método d
 
 Una vez creado el proyecto es necesario habilitar la API, para esto es necesario navegar a la sección  ``APIs & Services``, se selecciona ``Library`` y se busca ``Cloud Vision API``
 
-Tras quedar habilitada la API, es necesario dar los permisos necesarios para poder hacer consultas. Desde la consola, en el apartado de APIs & Services , seleccionar “Credentials” y crear una cuenta para el servicio, el rol que se le dará es a nivel “Project” solo lectura. En mi caso, estoy corriendo el Python de forma local por lo que es necesario descargar el archivo con las llaves (.json)
+Tras quedar habilitada la API, es necesario dar los permisos necesarios para poder hacer consultas. Desde la consola, en el apartado de ``APIs & Services`` , seleccionar ``Credentials`` y crear una cuenta para el servicio, el rol que se le dará es a nivel ``Project`` solo lectura. En mi caso, estoy corriendo el Python de forma local por lo que es necesario descargar el archivo con las llaves (.json)
 
 Para poder utilizar este archivo al autenticarse con la API. Es necesario crear una variable de entorno que cargue este archivo
 
