@@ -34,7 +34,7 @@ Ejemplo:
     lazzy_biologist/bin/pip install google-cloud-vision
 
 
-## [Google](https://codelabs.developers.google.com/codelabs/cloud-vision-api-python/index.html?index=..%2F..index#0)
+## [Google](https://codelabs.developers.google.com/codelabs/cloud-vision-api-python/index.html?index=..%2F..index#0) https://cloud.google.com/vision/docs/how-to
 
 Se necesita tener una cuenta en:
     
